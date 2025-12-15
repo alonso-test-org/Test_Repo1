@@ -1,4 +1,9 @@
-"ally-color": "~0.0.8",
-"ahooks": "^3.7.7",
-"analytics": "^0.7.18",
-"ansi-regex": "3.0.1"
+{
+  "name": "ansi-regex-example",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Example project using ansi-regex 6.2.2",
+  "dependencies": {
+    "ansi-regex": "6.2.2"
+  }
+}
